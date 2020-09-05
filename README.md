@@ -1,6 +1,6 @@
 ### Hi there! I'm Joseph Geis.
 
-I am a junior in high school and aspiring developer. I have experience with Python and Javascript, and am learning how to better use React. I am the head of backend development & head SysAdmin of Xenoshare.
+I am a junior in high school and aspiring developer. I have experience with Python and Javascript, and am learning how to better use React.
 
 #### Fun Facts
 
