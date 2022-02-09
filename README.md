@@ -20,6 +20,8 @@ I am a senior in high school and aspiring developer. My favorite languages are J
 
 You can email me at [joseph@josephgeis.dev](mailto:joseph@josephgeis.dev). I'm open to receiving internship offers, scholarship opportunities, etc. Also, my website is [josephgeis.dev](https://josephgeis.dev). I'll write whenever I feel like it, and there is more information on some of my projects, so check it out.
 
+You can also connect with me on [LinkedIn](https://www.linkedin.com/in/josephegeis/).
+
 <!--
 **juniorRubyist/juniorRubyist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
