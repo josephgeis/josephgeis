@@ -1,10 +1,10 @@
 ### Hi there! I'm Joseph Geis.
 
-I am a first-year student at Brigham Young University and aspiring developer. My favorite languages are JavaScript and Python. I like to make web apps using React.
+I am a sophomore at Brigham Young University and aspiring developer. My favorite languages are JavaScript and Python. I like to make web apps using React.
 
 ### What I'm Currently Working On
 
-- I am currently learning C++ as part of the Data Structures course I am taking (C S 235).
+- I am currently taking Computer Systems (C S 224) and Discrete Structures (C S 236).
 - I am a Teaching Assistant for the Introduction to Computer Science course at BYU (C S 111).
 
 #### Some Noteworthy Things I've Made
@@ -18,7 +18,7 @@ I am a first-year student at Brigham Young University and aspiring developer. My
 - I am the oldest child of 5.
 - I am from Orange County, CA.
 - I swam competitively for over 10 years.
-- I am a member of the Church of Jesus Christ of Latter-Day Saints
+- I am a member of the Church of Jesus Christ of Latter-Day Saints.
 - I have used a computer since I was 3, and have been interested in programming since I was 9.
 
 #### Contact
