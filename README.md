@@ -1,11 +1,10 @@
 ### Hi there! I'm Joseph Geis.
 
-I am a sophomore at Brigham Young University and aspiring computer scientist.
+I am a junior at Brigham Young University and aspiring computer scientist. I am studying Applied & Computational Mathematics with a minor in Computer Science.
 
 ### What I'm Currently Working On
 
-- I am currently taking _Advanced Software Construction_ (C S 240) and _Introduction to Computational Theory_ (C S 252) at BYU.
-- I am a Teaching Assistant for _Introduction to Computer Science_ (C S 111).
+- I'm currently taking _Ordinary Differential Equations_
 - I am a Research Assistant in the [MATRIX Lab](https://matrix.byu.edu) at BYU. We are working on a project with BYU-Pathway Worldwide students to train machine translation and NTTS models for indigenous African languages.
 
 #### Some Noteworthy Things I've Made
@@ -14,6 +13,7 @@ I am a sophomore at Brigham Young University and aspiring computer scientist.
 - [THS Bell Schedule](https://thsbs.josephgeis.dev): a bell schedule app for my high school, created with Next.js (:octocat: [josephgeis/ths-bell-schedule](https://github.com/josephgeis/ths-bell-schedule))
 - [Buzz-In](https://buzz.josephgeis.dev): a Jeopardy buzzer thingy, created with React (:octocat: [josephgeis/buzzin](https://github.com/josephgeis/buzzin))
 - [geislaw.com](http://geislaw.com): my dad's website
+- [quine.py](https://github.com/josephgeis/josephgeis/blob/main/quine.py): a Python [quine](https://en.wikipedia.org/wiki/Quine_(computing)) implementation.
 
 #### Fun Facts
 
