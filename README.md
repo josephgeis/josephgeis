@@ -1,6 +1,6 @@
 ### Hi there! I'm Joseph Geis.
 
-I am a junior at Brigham Young University and aspiring computer scientist. I am studying Applied & Computational Mathematics with a minor in Computer Science.
+I am a junior at Brigham Young University and aspiring computer scientist. I am studying Applied & Computational Mathematics with a minor in Computer Science. I'm passionate about learning new things and using technology to help others and do cool things.
 
 ### What I'm Currently Working On
 
@@ -9,9 +9,10 @@ I am a junior at Brigham Young University and aspiring computer scientist. I am 
 
 #### Some Noteworthy Things I've Made
 
-- [josephgeis.dev](https://josephgeis.dev): my website
-- [THS Bell Schedule](https://thsbs.josephgeis.dev): a bell schedule app for my high school, created with Next.js (:octocat: [josephgeis/ths-bell-schedule](https://github.com/josephgeis/ths-bell-schedule))
-- [Buzz-In](https://buzz.josephgeis.dev): a Jeopardy buzzer thingy, created with React (:octocat: [josephgeis/buzzin](https://github.com/josephgeis/buzzin))
+- [josephgeis.dev](https://josephgeis.dev) (React/Next.js): my website
+- [mathematica-mcp](https://github.com/josephgeis/mathematica-mcp) (Python, FastMCP): an MCP server that provides tools for LLMs to interface with the Wolfram Langauge.
+- [THS Bell Schedule](https://thsbs.josephgeis.dev) (React/Next.js): a bell schedule app for my high school, created with Next.js (:octocat: [josephgeis/ths-bell-schedule](https://github.com/josephgeis/ths-bell-schedule))
+- [Buzz-In](https://buzz.josephgeis.dev) (React): a Jeopardy buzzer thingy, created with React (:octocat: [josephgeis/buzzin](https://github.com/josephgeis/buzzin))
 - [geislaw.com](http://geislaw.com): my dad's website
 - [quine.py](https://github.com/josephgeis/josephgeis/blob/main/quine.py): a Python [quine](https://en.wikipedia.org/wiki/Quine_(computing)) implementation.
 
