@@ -46,3 +46,5 @@ I am a junior at Brigham Young University (studying Applied & Computational Math
 You can email me at [josephegeis@gmail.com](mailto:josephegeis@gmail.com). I'm keeping my eyes open for internships and future job opportunities, so feel free to send me anything of that sort. Also, my website is [josephgeis.dev](https://josephgeis.dev). I'll write whenever I feel like it, and there is more information on some of my projects, so check it out.
 
 You can also connect with me on [LinkedIn](https://www.linkedin.com/in/josephegeis/).
+
+A current copy of my résumé can be found [here](https://github.com/josephgeis/josephgeis/blob/main/resume_josephgeis.pdf).
